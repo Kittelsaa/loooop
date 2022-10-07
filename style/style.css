@@ -594,10 +594,30 @@ footer .icons{
         font-size: 15px;
     }
     footer .lili{
-        gap: 20px;
+        gap: 90px;
         display: flex;
         left: 120px;
         top: 100px;
+    }
+    footer .lili li #A{
+        position: absolute;
+        top: 0px;
+    }
+    footer .lili li #C{
+        position: absolute;
+        top: 0px;
+    }
+    footer .lili li #E{
+        position: absolute;
+        top: 0px;
+    }
+    footer .lili li #P{
+        position: absolute;
+        top: 0px;
+    }
+    footer .lili li #S{
+        position: absolute;
+        top: 0px;
     }
     footer .logo img{
         top: 50px; 
