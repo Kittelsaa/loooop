@@ -354,7 +354,7 @@ footer .lili{
     position: absolute;
     list-style: none;
     left: 175px;
-    top: 150px;
+    top: 160px;
 }
 footer .lili li a{
     color: hsl(0, 0%, 100%);
@@ -362,6 +362,26 @@ footer .lili li a{
     font-weight: 400;
     font-family: 'Alata', sans-serif;
     font-size: 15px;
+}
+footer .lili li #A{
+    position: absolute;
+    top: 0px;
+}
+footer .lili li #C{
+    position: absolute;
+    top: 45px;
+}
+footer .lili li #E{
+    position: absolute;
+    top: 90px;
+}
+footer .lili li #P{
+    position: absolute;
+    top: 135px;
+}
+footer .lili li #S{
+    position: absolute;
+    top: 180px;
 }
 footer .copy h6{
     position: absolute;
@@ -385,7 +405,7 @@ footer .icons{
     margin: 0px;
     width: 100px;
     height: 30px;
-    top: 450px;
+    top: 460px;
     left: 160px;
     gap: 20px;
 }
